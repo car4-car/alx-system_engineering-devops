@@ -1,0 +1,17 @@
+
+u have access to the full output of the Checker - Use it with reason!
+
+File is present
+
+Must be 2 lines long
+
+Start by #!/bin/bash
+
+You are not allowed to use backticks, &&, || or ;
+
+Correct output
+
+Script runs without error
+
+#!/bin/bash
+chmod --reference-olleh hello
